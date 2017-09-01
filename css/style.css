@@ -2562,7 +2562,9 @@ button.list-group-item-danger {
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
-  padding: 0.75rem 1.5rem;}
+  padding: 0.75rem 1.5rem;
+  opacity: 0.9;
+}
   .navbar > .container,
   .navbar > .container-fluid {
     display: flex;
